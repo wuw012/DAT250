@@ -7,7 +7,7 @@ I had no technical problems with the JPA installation
 [Link to code for experiment 2](https://github.com/wuw012/dat250-experiment2).
 
 ## Database
-![Database Output](DatabaseOutput.jpg "Database Output")
+![Database Output](DatabaseOutput.JPG)
 *Database Output*
 
 
