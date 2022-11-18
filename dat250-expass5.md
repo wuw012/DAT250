@@ -7,9 +7,3 @@ except when i tried to push to git it showed up as subdmodules so i had to remov
   
 ## Link to code for experiment 1-4
 [Link to code for experiment 5](https://github.com/wuw012/dat250-expass5).
-
-## Pending issues
-
-
-# dat250-expass5
-
